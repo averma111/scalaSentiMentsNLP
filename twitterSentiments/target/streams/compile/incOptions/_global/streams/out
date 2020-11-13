@@ -1,0 +1,32 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /home/ashish/workspace-scala/twitterSentiments/target/scala-2.11/classes.bak[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	logUtility$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$main$1$$anonfun$apply$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$NOT_UNDERSTOOD$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$VERY_NEGATIVE$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$$anonfun$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$detectLanguage$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$SENTIMENT_TYPE.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	stringUtility$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$main$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	stringUtility$$anonfun$onlyWords$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	stringUtility.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$NEGATIVE$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$$anonfun$detectSentiment$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$NEUTRAL$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	logUtility$$anonfun$setRealtimeLogLevel$1.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	stringUtility$$anonfun$onlyWords$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$detectLanguage$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$POSITIVE$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	twitterSentiments$$anonfun$main$1$$anonfun$apply$1$$anonfun$apply$3.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	logUtility.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$VERY_POSITIVE$.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0m	sentimentAnalysis$$anonfun$2.class[0m[0J
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /home/ashish/workspace-scala/twitterSentiments/target/scala-2.11/classes.bak[0m[0J

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.cybozu.labs:langdetect:1.1-20120112:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.maven.org/maven2/com/cybozu/labs/langdetect/1.1-20120112/langdetect-1.1-20120112-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
